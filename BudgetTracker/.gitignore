@@ -1,0 +1,15 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Java / Maven
+target/
+**/target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
