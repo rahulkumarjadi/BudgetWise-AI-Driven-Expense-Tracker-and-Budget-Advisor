@@ -38,7 +38,7 @@ export default function Sidebar() {
 
   // Fallback Logic for User Info
   const displayName = user?.fullName || user?.name || user?.username || "Guest User";
-  const displayEmail = user?.email || "No email provided";
+  const displayEmail = user?.email || "rahul18@gmail.com";
 
   const [showLogout, setShowLogout] = useState(false);
   const [showSettings, setShowSettings] = useState(false);

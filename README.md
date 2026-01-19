@@ -21,8 +21,60 @@ Managing personal finances can be overwhelming without proper insights.
 This project follows **enterprise-level architecture** and best development practices.
 
 ---
+## 🖥 Application Preview
+
+## 📸 Screenshots
+
+### 🏠 Welcome & Authentication
+| Home Page     | Sign In     | Sign Up |
+|---------------|-------------|--------|
+| [Home Page](screenshots/home-page.png) | [Sign In](screenshots/sign-in.png) | [Sign Up](screenshots/sign-up.png) |
+
+---
+
+### 📊 Dashboard 
+| Main Dashboard | 
+|----------------|
+| [Dashboard](screenshots/dashboard.png) |
+
+---
+
+### 📝 Transaction Management
+| Transactions History | Transactions History |
+|---------------------|--|
+| [Transactions](screenshots/transactions.png) | [Transactions History](screenshots/Transcations.png) |
 
 
+---
+| CSV AND EXCEL Export Preview                   |
+|------------------------------------------------|
+| [EXCEL Export](screenshots/download-excel.png) |
+
+---
+
+### 🎯 Budgeting & Savings
+| Monthly Budgets | Edit Budget |
+|-------------|------------|
+| [Budgets](screenshots/budget.png) | [Edit Budget](screenshots/budegts edit.png) |
+
+| Savings Goals | Edit Savings Goal |
+|--------------|------------------|
+| [Savings Goals](screenshots/savings-goals.png) | [Edit Savings](screenshots/saving-goal-edit.png) |
+
+---
+
+### ✨ Analytics
+
+| Analytics   | Ai insights                                |
+|--|--------------------------------------------|
+| [Analytics  ](screenshots/analytics.png) | [Ai insights](screenshots/Ai-insights.png) |
+
+
+
+##  Alerts
+| Alerts        | 
+|---------------|
+| [ Alerts ](screenshots/alerts.png) |
 
 ## 🎥 Demo Video (Important)
 
