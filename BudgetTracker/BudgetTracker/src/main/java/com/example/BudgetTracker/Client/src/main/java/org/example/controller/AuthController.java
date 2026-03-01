@@ -55,6 +55,10 @@ public class    AuthController {
             throw new ApiException("Invalid token", HttpStatus.UNAUTHORIZED);
         }
         String subject = jwtUtils.getSubject(token);
-        return ResponseEntity.ok(Map.of("subject", subject));
+//        return ResponseEntity.ok(Map.of("subject", subject));
+        return ResponseEntity.ok(Map.of(
+                "subject", subject,
+                "id", subject
+        ));
     }
 }
